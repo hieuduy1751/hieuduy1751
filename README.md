@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuduy1751&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuduy1751&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuduy1751&layout=compact&theme=dracula&langs_count=6)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hieuduy1751&theme=dracula&layout=compact&langs_count=5)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hieuduy1751&theme=dracula&layout=compact&langs_count=6)
 
