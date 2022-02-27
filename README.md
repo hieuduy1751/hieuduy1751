@@ -12,9 +12,6 @@
 - <img align="left" alt="Node.js" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> NodeJS
 - <img align="left" alt="Expresss.js" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> ExpressJS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuduy1751&count_private=true&show_icons=true&theme=dracula)
+<!--START_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuduy1751&layout=compact&theme=dracula&langs_count=6)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hieuduy1751&theme=dracula&layout=compact&langs_count=6)
-
+<!--END_SECTION:waka-->
