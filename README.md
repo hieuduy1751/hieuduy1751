@@ -19,13 +19,11 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hieuduy1751&theme=dracula&layout=compact&langs_count=6)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 188 Contributions in the Year 2022
+> 🏆 200 Contributions in the Year 2022
  > 
 > 📦 19.7 kB Used in GitHub's Storage 
  > 
@@ -55,5 +53,5 @@ Unknown Project          49 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/03/2022 18:45:17 UTC
+ Last Updated on 21/03/2022 18:47:11 UTC
 <!--END_SECTION:waka-->
