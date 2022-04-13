@@ -19,19 +19,19 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hieuduy1751&theme=dracula&layout=compact&langs_count=6)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 248 Contributions in the Year 2022
+> 🏆 268 Contributions in the Year 2022
  > 
 > 📦 20.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -55,5 +55,5 @@ TIKI_LAYOUT              7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/04/2022 18:46:19 UTC
+ Last Updated on 13/04/2022 18:47:46 UTC
 <!--END_SECTION:waka-->
