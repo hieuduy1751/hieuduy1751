@@ -19,9 +19,7 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hieuduy1751&theme=dracula&layout=compact&langs_count=6)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,5 +53,5 @@ TIKI_LAYOUT              7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/04/2022 18:47:46 UTC
+ Last Updated on 15/04/2022 18:50:14 UTC
 <!--END_SECTION:waka-->
