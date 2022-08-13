@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Nguyen Duy Hieu
 
-## 👨‍🎓 I'm a third-year student, currently studying in Industry University Of Ho Chi Minh
+## 👨‍🎓 I'm a final-year student, currently studying in Industry University Of Ho Chi Minh
 - 🐱‍🏍 Major: Software Engineer
-- 📗 Learning: Javascript Web Development
+- 📗 Learning: Web Development
 
 ## 🧑‍💻 Tech:
 - <img align="left" alt="HTML5" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML, PUG
