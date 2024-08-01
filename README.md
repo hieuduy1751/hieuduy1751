@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nguyen Duy Hieu
 
-## 👨‍🎓 I'm a final-year student, currently studying in Industry University Of Ho Chi Minh
+## 👨‍🎓 I'm a software engineer. Experienced with Javascript, Typescript language. ReactJS, Angular, NextJS, NodeJS, ExpressJS frameworks.
 - 🐱‍🏍 Major: Software Engineer
 - 📗 Learning: Web Development
 
